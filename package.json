@@ -1,5 +1,5 @@
 {
-  "name": "dataset-003",
+  "name": "high-density-dataset-03",
   "version": "1.0.0",
   "main": "./dataset/index.ts",
   "author": "tscircuit",
