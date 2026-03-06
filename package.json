@@ -1,0 +1,8 @@
+{
+  "name": "dataset-003",
+  "version": "1.0.0",
+  "main": "./dataset/index.ts",
+  "author": "tscircuit",
+  "license": "MIT",
+  "description": "dataset for high density"
+}
